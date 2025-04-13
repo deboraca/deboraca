@@ -1,7 +1,5 @@
 ## Olá! Eu sou a Débora Camargo 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com administrativo de faturação
 - 🌱 Estudando Backend
 - 📫 deboracamargo905@gmail.com
